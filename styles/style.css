@@ -473,3 +473,8 @@ footer {
 .footer-icons a:hover svg {
   fill: #000;
 }
+
+/* edukasi taun */
+.education-years {
+  margin-top: -20px;
+}
