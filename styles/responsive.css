@@ -116,4 +116,16 @@
   .pre-title {
     font-size: 0.7rem;
   }
+
+  .email {
+    margin-top: -10px;
+  }
+
+  .nomer {
+    margin-top: -10px;
+  }
+
+  .alamat {
+    margin-top: -10px;
+  }
 }
